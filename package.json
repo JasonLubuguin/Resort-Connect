@@ -1,0 +1,10 @@
+{
+  "name": "resort-connect-workspace",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "npm --prefix ./Resort-Connect-main-main run dev",
+    "build": "npm --prefix ./Resort-Connect-main-main run build",
+    "install:app": "npm --prefix ./Resort-Connect-main-main install"
+  }
+}
